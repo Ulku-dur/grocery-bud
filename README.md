@@ -1,7 +1,3 @@
-Tabii ki! İşte tüm proje açıklamalarını ve kod örneklerini içeren, **.md formatında** hazırlanmış, düzgün ve toplu bir `README.md` dosyası. Bunu direkt olarak kopyalayıp VS Code'da yeni bir `README.md` dosyasına yapıştırabilirsin. 😊
-
----
-
 ```markdown
 # Grocery Bud Project
 
