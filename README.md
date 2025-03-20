@@ -228,5 +228,3 @@ This project is a great way to practice React fundamentals and understand how to
 
 Happy coding! 🚀
 ```
-
----
