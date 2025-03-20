@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # Grocery Bud Project
 
 ## Overview
@@ -36,7 +33,6 @@ The application uses React's `useState` hook to manage the list of items.
 
 ```javascript
 const [items, setItems] = useState(defaultList);
-```
 
 - `items`: The current list of grocery items.
 - `setItems`: A function to update the list.
