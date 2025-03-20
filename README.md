@@ -227,4 +227,4 @@ const newItem = { ...item, completed: !item.completed };
 This project is a great way to practice React fundamentals and understand how to work with `localStorage` for persistent data storage. By revisiting the explanations and code snippets in this README, you can reinforce your understanding of key concepts like state management, array methods, and event handling.
 
 Happy coding! 🚀
-```
+
