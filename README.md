@@ -212,7 +212,7 @@ const newItem = { ...item, completed: !item.completed };
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 4. Open the app in your browser at `http://localhost:3000`.
 
